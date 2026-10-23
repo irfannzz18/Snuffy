@@ -29,5 +29,5 @@ jobs:
 
       - uses: actions/upload-artifact@v4
         with:
-          name: Soundify-APK
+          name: Snuffy-APK
           path: app/build/outputs/apk/debug/app-debug.apk
