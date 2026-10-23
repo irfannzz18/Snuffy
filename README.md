@@ -1,4 +1,4 @@
-# Soundify
+# Snuffy
 
 A music player for Android. Search YouTube, play songs, make albums, and save your liked tracks.
 
